@@ -129,7 +129,7 @@ header{
   column-span: all;
   max-height: 700px;
   overflow: hidden;
-  grid-row: 2/ span 1;
+  grid-row: 2/ span 1;s
   
 }
 
@@ -200,8 +200,8 @@ header{
   }
 
   .container{
-    grid-template-columns: 50px, auto, 500px, auto, and  50px;
-    grid-template-rows: 400px, 400px, 400px, 400px, and 400px;
+    grid-template-columns: 50px, auto, 500px, auto, 50px;
+    grid-template-rows: 400px, 400px, 400px, 400px, 400px;
    
   }
 
